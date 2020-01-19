@@ -1,0 +1,9 @@
+D:\Documentos\Programas Visual Studio\PicoPlaca\ProgramaPicoPlaca\bin\Debug\ProgramaPicoPlaca.exe.config
+D:\Documentos\Programas Visual Studio\PicoPlaca\ProgramaPicoPlaca\bin\Debug\ProgramaPicoPlaca.exe
+D:\Documentos\Programas Visual Studio\PicoPlaca\ProgramaPicoPlaca\bin\Debug\ProgramaPicoPlaca.pdb
+D:\Documentos\Programas Visual Studio\PicoPlaca\ProgramaPicoPlaca\obj\Debug\ProgramaPicoPlaca.csprojAssemblyReference.cache
+D:\Documentos\Programas Visual Studio\PicoPlaca\ProgramaPicoPlaca\obj\Debug\ProgramaPicoPlaca.Form1.resources
+D:\Documentos\Programas Visual Studio\PicoPlaca\ProgramaPicoPlaca\obj\Debug\ProgramaPicoPlaca.Properties.Resources.resources
+D:\Documentos\Programas Visual Studio\PicoPlaca\ProgramaPicoPlaca\obj\Debug\ProgramaPicoPlaca.csproj.GenerateResource.cache
+D:\Documentos\Programas Visual Studio\PicoPlaca\ProgramaPicoPlaca\obj\Debug\ProgramaPicoPlaca.exe
+D:\Documentos\Programas Visual Studio\PicoPlaca\ProgramaPicoPlaca\obj\Debug\ProgramaPicoPlaca.pdb
